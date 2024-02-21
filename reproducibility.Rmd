@@ -31,3 +31,5 @@ In the survey [^1] respondents were asked to rate 11 different approaches to imp
 * More time for mentoring
 * Journals enforcing standards
 * More time checking notebooks
+
+Can I do it?
